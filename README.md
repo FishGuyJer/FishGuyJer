@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FishGuyJer
-- 👀 I’m interested in ...  becoming a Software Engineer, to give my little family a better life.
-- 🌱 I’m currently learning ... Python with Django soon.
-- 💞️ I’m looking to collaborate on ... anything that someone wouldn't mind helping out a new guy... (nervous laugher...)
-- 📫 How to reach me ... email -> walleyeaddict90@outlook.com  twitter -> @fishguyjer
+- 👋 Hi, I’m Jeremy, girl dad, life long learner. Currently a Cybersecurity Analyst Apprentice.
+- 👀 I’m interested in ...  becoming a Cybersecurity Analyst, to give my little family a better life.
+- 🌱 I’m currently learning ... CompTIA Sec+, CySA+, Containers(Docker and Kubernetes) at a basic level, and Linux.
+- 💞️ I’m looking to collaborate on ... anything Cybersecurity related.
+- 📫 How to reach me ... email -> jer_thompson@outlook.com  twitter -> @phishguyjer
 
 <!---
 FishGuyJer/FishGuyJer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
